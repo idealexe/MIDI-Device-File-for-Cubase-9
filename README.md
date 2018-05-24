@@ -1,5 +1,6 @@
 # MIDI Device File for Cubase 9
-Cubase 9用のMIDIデバイス設定ファイル
+* Cubase 9用のMIDIデバイス設定ファイル
+* VARIAT=0以外の楽器は気が向いたら追加します・・・
 
 ## インポート方法
 https://steinberg.help/cubase_pro_artist/v9/ja/cubase_nuendo/topics/using_midi_devices/midi_devices_using_midi_device_manager_opening_r.html
