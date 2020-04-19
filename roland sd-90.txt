@@ -1,0 +1,2680 @@
+[cubase parse file]
+
+[parser version 0001]
+
+
+[creators first name]ideal.exe
+
+[creators last name]ideal.exe
+
+[device manufacturer]ROLAND
+
+[device name]SD-90
+
+[script name]Roland SD-90
+
+[script version]version 1.00
+
+
+[define patchnames]
+
+
+[mode]	Voices
+
+[g1]	CLASIC
+
+[p2, 0, 96, 0]001:000 Piano 1
+
+[p2, 0, 96, 1]001:001 Piano 1w
+
+[p2, 0, 96, 2]001:002 Piano 1d
+
+[p2, 1, 96, 0]002:000 Piano 2
+
+[p2, 1, 96, 1]002:001 Piano 2w
+
+[p2, 2, 96, 0]003:000 Piano 3
+
+[p2, 2, 96, 1]003:001 Piano 3w
+
+[p2, 3, 96, 0]004:000 Honky-tonk
+
+[p2, 3, 96, 1]004:001 Honky-tonk w
+
+[p2, 4, 96, 0]005:000 E.Piano 1
+
+[p2, 4, 96, 1]005:001 Detuned EP1
+
+[p2, 4, 96, 2]005:002 Dyno Rhodes
+
+[p2, 4, 96, 3]005:003 60's E.Piano
+
+[p2, 5, 96, 0]006:000 E.Piano 2
+
+[p2, 5, 96, 1]006:001 Detuned EP2
+
+[p2, 5, 96, 2]006:002 E.Piano 2v
+
+[p2, 5, 96, 3]006:003 EP Legend
+
+[p2, 5, 96, 4]006:004 EP Phase
+
+[p2, 6, 96, 0]007:000 Harpsichord
+
+[p2, 6, 96, 1]007:001 Coupl hps
+
+[p2, 6, 96, 2]007:002 Harpsi w
+
+[p2, 6, 96, 3]007:003 Harpsi o
+
+[p2, 7, 96, 0]008:000 Clav
+
+[p2, 7, 96, 1]008:001 Pulse Clav
+
+[p2, 8, 96, 0]009:000 Celesta
+
+[p2, 9, 96, 0]010:000 Glockenspiel
+
+[p2, 10, 96, 0]011:000 Music Box
+
+[p2, 11, 96, 0]012:000 Vibraphone
+
+[p2, 11, 96, 1]012:001 Vibraphone w
+
+[p2, 12, 96, 0]013:000 Marimba
+
+[p2, 12, 96, 1]013:001 Marimba w
+
+[p2, 13, 96, 0]014:000 Xylophone
+
+[p2, 14, 96, 0]015:000 Tubular-bell
+
+[p2, 14, 96, 1]015:001 Church Bell
+
+[p2, 14, 96, 2]015:002 Carillon
+
+[p2, 15, 96, 0]016:000 Santur
+
+[p2, 16, 96, 0]017:000 Organ 1
+
+[p2, 16, 96, 1]017:001 Detuned Or1
+
+[p2, 16, 96, 2]017:002 Organ 60
+
+[p2, 16, 96, 3]017:003 Organ 4
+
+[p2, 17, 96, 0]018:000 Organ 2
+
+[p2, 17, 96, 1]018:001 Detuned Or2
+
+[p2, 17, 96, 2]018:002 Organ 5
+
+[p2, 18, 96, 0]019:000 Organ 3
+
+[p2, 19, 96, 0]020:000 Church 1
+
+[p2, 19, 96, 1]020:001 Church 2
+
+[p2, 19, 96, 2]020:002 Church 3
+
+[p2, 20, 96, 0]021:000 Reed Organ
+
+[p2, 20, 96, 1]021:001 Puff Organ
+
+[p2, 21, 96, 0]022:000 Accordion F
+
+[p2, 21, 96, 1]022:001 Accordion I
+
+[p2, 22, 96, 0]023:000 Harmonica
+
+[p2, 23, 96, 0]024:000 Bandneon
+
+[p2, 24, 96, 0]025:000 Nylon Gt
+
+[p2, 24, 96, 1]025:001 Ukulele
+
+[p2, 24, 96, 2]025:002 Nylon o
+
+[p2, 24, 96, 3]025:003 Nylon Gt.2
+
+[p2, 25, 96, 0]026:000 Steel-str.Gt
+
+[p2, 25, 96, 1]026:001 12-Str.Gt
+
+[p2, 25, 96, 2]026:002 Mandolin
+
+[p2, 25, 96, 3]026:003 Steel+Body
+
+[p2, 26, 96, 0]027:000 Jazz Gt
+
+[p2, 26, 96, 1]027:001 Pedal Steel
+
+[p2, 27, 96, 0]028:000 Clean Rear
+
+[p2, 27, 96, 1]028:001 Clean Half
+
+[p2, 27, 96, 2]028:002 Mid Tone Gt
+
+[p2, 28, 96, 0]029:000 Muted Gt
+
+[p2, 28, 96, 1]029:001 Funk Gt
+
+[p2, 28, 96, 2]029:002 Funk Gt 2
+
+[p2, 28, 96, 3]029:003 Jazz Man
+
+[p2, 29, 96, 0]030:000 Overdrive Gt
+
+[p2, 29, 96, 1]030:001 Gt.Pinch
+
+[p2, 30, 96, 0]031:000 DistortionGt
+
+[p2, 30, 96, 1]031:001 Feedback Gt
+
+[p2, 30, 96, 2]031:002 DistRythm Gt
+
+[p2, 31, 96, 0]032:000 Gt.Harmonics
+
+[p2, 31, 96, 1]032:001 Gt.Feedback
+
+[p2, 32, 96, 0]033:000 Acoustic Bs
+
+[p2, 33, 96, 0]034:000 Fingered Bs
+
+[p2, 33, 96, 1]034:001 FingerJ.Bass
+
+[p2, 34, 96, 0]035:000 Picked Bass
+
+[p2, 35, 96, 0]036:000 Fretless Bs
+
+[p2, 36, 96, 0]037:000 Slap Bass 1
+
+[p2, 37, 96, 0]038:000 Slap Bass 2
+
+[p2, 38, 96, 0]039:000 Synth Bass 1
+
+[p2, 38, 96, 1]039:001 SynthBass101
+
+[p2, 38, 96, 2]039:002 Acid Bass
+
+[p2, 38, 96, 3]039:003 Clavi Bass
+
+[p2, 38, 96, 4]039:004 Hammer
+
+[p2, 39, 96, 0]040:000 Synth Bass 2
+
+[p2, 39, 96, 1]040:001 Beef FM Bs
+
+[p2, 39, 96, 2]040:002 Rubber Bass
+
+[p2, 39, 96, 3]040:003 Attack Pulse
+
+[p2, 40, 96, 0]041:000 Violin
+
+[p2, 40, 96, 1]041:001 Slow Violin
+
+[p2, 41, 96, 0]042:000 Viola
+
+[p2, 42, 96, 0]043:000 Cello
+
+[p2, 43, 96, 0]044:000 Contrabass
+
+[p2, 44, 96, 0]045:000 Tremolo Str
+
+[p2, 45, 96, 0]046:000 Pizzicato
+
+[p2, 46, 96, 0]047:000 Harp
+
+[p2, 46, 96, 1]047:001 Yangqin
+
+[p2, 47, 96, 0]048:000 Timpani
+
+[p2, 48, 96, 0]049:000 Strings
+
+[p2, 48, 96, 1]049:001 Orchestra
+
+[p2, 48, 96, 2]049:002 60'Strings
+
+[p2, 49, 96, 0]050:000 Slow Strings
+
+[p2, 50, 96, 0]051:000 Syn.Strings1
+
+[p2, 50, 96, 1]051:001 Syn.Strings3
+
+[p2, 51, 96, 0]052:000 Syn.Strings2
+
+[p2, 52, 96, 0]053:000 Choir Aahs
+
+[p2, 52, 96, 1]053:001 Choir Aahs 2
+
+[p2, 53, 96, 0]054:000 Voices Oohs
+
+[p2, 53, 96, 1]054:001 Hamming
+
+[p2, 54, 96, 0]055:000 SynVox
+
+[p2, 54, 96, 1]055:001 Ana Voices
+
+[p2, 55, 96, 0]056:000 Orchestrahit
+
+[p2, 55, 96, 1]056:001 Bass Hit
+
+[p2, 55, 96, 2]056:002 6th Hit
+
+[p2, 55, 96, 3]056:003 Euro Hit
+
+[p2, 56, 96, 0]057:000 Trumpet
+
+[p2, 56, 96, 1]057:001 Dark Trumpet
+
+[p2, 57, 96, 0]058:000 Trombone
+
+[p2, 57, 96, 1]058:001 Trombone 2
+
+[p2, 57, 96, 2]058:002 Brite Bone
+
+[p2, 58, 96, 0]059:000 Tuba
+
+[p2, 59, 96, 0]060:000 MuteTrumpet
+
+[p2, 59, 96, 1]060:001 MuteTrumpet2
+
+[p2, 60, 96, 0]061:000 French Horns
+
+[p2, 60, 96, 1]061:001 Fr.Horn
+
+[p2, 61, 96, 0]062:000 Brass 1
+
+[p2, 61, 96, 1]062:001 Brass 2
+
+[p2, 62, 96, 0]063:000 SynthBrass 1
+
+[p2, 62, 96, 1]063:001 SynthBrass 3
+
+[p2, 62, 96, 2]063:002 Oct.SynBrass
+
+[p2, 62, 96, 3]063:003 Jump Brass
+
+[p2, 63, 96, 0]064:000 SynthBrass 2
+
+[p2, 63, 96, 1]064:001 SynthBrass 4
+
+[p2, 63, 96, 2]064:002 Velo Brass
+
+[p2, 64, 96, 0]065:000 Soprano Sax
+
+[p2, 65, 96, 0]066:000 Alto Sax
+
+[p2, 66, 96, 0]067:000 Tenor Sax
+
+[p2, 67, 96, 0]068:000 Bariton Sax
+
+[p2, 68, 96, 0]069:000 Oboe
+
+[p2, 69, 96, 0]070:000 EnglishHorn
+
+[p2, 70, 96, 0]071:000 Bassoon
+
+[p2, 71, 96, 0]072:000 Clarinet
+
+[p2, 72, 96, 0]073:000 Piccolo
+
+[p2, 73, 96, 0]074:000 Flute
+
+[p2, 74, 96, 0]075:000 Recorder
+
+[p2, 75, 96, 0]076:000 Pan Flute
+
+[p2, 76, 96, 0]077:000 Bottle Blow
+
+[p2, 77, 96, 0]078:000 Shakuhachi
+
+[p2, 78, 96, 0]079:000 Whistle
+
+[p2, 79, 96, 0]080:000 Ocarina
+
+[p2, 80, 96, 0]081:000 Square Wave
+
+[p2, 80, 96, 1]081:001 Square
+
+[p2, 80, 96, 2]081:002 Sine Wave
+
+[p2, 81, 96, 0]082:000 Saw Wave
+
+[p2, 81, 96, 1]082:001 Saw
+
+[p2, 81, 96, 2]082:002 Doctor Solo
+
+[p2, 81, 96, 3]082:003 Natural Lead
+
+[p2, 81, 96, 4]082:004 SequencedSaw
+
+[p2, 82, 96, 0]083:000 Syn.Calliope
+
+[p2, 83, 96, 0]084:000 Chiffer Lead
+
+[p2, 84, 96, 0]085:000 Charang
+
+[p2, 84, 96, 1]085:001 Wire Lead
+
+[p2, 85, 96, 0]086:000 Solo Vox
+
+[p2, 86, 96, 0]087:000 5th SawWave
+
+[p2, 87, 96, 0]088:000 Bass & Lead
+
+[p2, 87, 96, 1]088:001 DelayedLead
+
+[p2, 88, 96, 0]089:000 Fantasia
+
+[p2, 89, 96, 0]090:000 Warm Pad
+
+[p2, 89, 96, 1]090:001 Sine Pad
+
+[p2, 90, 96, 0]091:000 Polysynth
+
+[p2, 91, 96, 0]092:000 SpaceVoices
+
+[p2, 91, 96, 1]092:001 Itopia
+
+[p2, 92, 96, 0]093:000 BowedGlass
+
+[p2, 93, 96, 0]094:000 Metal Pad
+
+[p2, 94, 96, 0]095:000 Halo Pad
+
+[p2, 95, 96, 0]096:000 Sweep Pad
+
+[p2, 96, 96, 0]097:000 Ice Rain
+
+[p2, 97, 96, 0]098:000 Soundtrack
+
+[p2, 98, 96, 0]099:000 Crystal
+
+[p2, 98, 96, 1]099:001 Syn Mallet
+
+[p2, 99, 96, 0]100:000 Atmosphere
+
+[p2, 100, 96, 0]101:000 Brightness
+
+[p2, 101, 96, 0]102:000 Goblin
+
+[p2, 102, 96, 0]103:000 Echo Drops
+
+[p2, 102, 96, 1]103:001 Echo Bell
+
+[p2, 102, 96, 2]103:002 Echo Pan
+
+[p2, 103, 96, 0]104:000 Star Theme
+
+[p2, 104, 96, 0]105:000 Sitar
+
+[p2, 104, 96, 1]105:001 Sitar 2
+
+[p2, 105, 96, 0]106:000 Banjo
+
+[p2, 106, 96, 0]107:000 Shamisen
+
+[p2, 107, 96, 0]108:000 Koto
+
+[p2, 107, 96, 1]108:001 Taisho Koto
+
+[p2, 108, 96, 0]109:000 Kalimba
+
+[p2, 109, 96, 0]110:000 Bag Pipe
+
+[p2, 110, 96, 0]111:000 Fiddle
+
+[p2, 111, 96, 0]112:000 Shanai
+
+[p2, 112, 96, 0]113:000 Tinkle Bell
+
+[p2, 113, 96, 0]114:000 Agogo
+
+[p2, 114, 96, 0]115:000 Steel Drums
+
+[p2, 115, 96, 0]116:000 Woodblock
+
+[p2, 115, 96, 1]116:001 Castanet
+
+[p2, 116, 96, 0]117:000 Taiko
+
+[p2, 116, 96, 1]117:001 Concert BD
+
+[p2, 117, 96, 0]118:000 Melo.Tom 1
+
+[p2, 117, 96, 1]118:001 Melo.Tom 2
+
+[p2, 118, 96, 0]119:000 Synth Drum
+
+[p2, 118, 96, 1]119:001 808 tom
+
+[p2, 118, 96, 2]119:002 Elec Perc
+
+[p2, 119, 96, 0]120:000 Reverse Cym
+
+[p2, 120, 96, 0]121:000 GtFret Noise
+
+[p2, 120, 96, 1]121:001 Gt.Cut Noise
+
+[p2, 120, 96, 2]121:002 Slap_St.Bass
+
+[p2, 121, 96, 0]122:000 Breath Noise
+
+[p2, 121, 96, 1]122:001 Fl.Key Click
+
+[p2, 122, 96, 0]123:000 Seashore
+
+[p2, 122, 96, 1]123:001 Rain
+
+[p2, 122, 96, 2]123:002 Thunder
+
+[p2, 122, 96, 3]123:003 Wind
+
+[p2, 122, 96, 4]123:004 Stream
+
+[p2, 122, 96, 5]123:005 Bubble
+
+[p2, 123, 96, 0]124:000 Bird Tweet
+
+[p2, 123, 96, 1]124:001 Dog
+
+[p2, 123, 96, 2]124:002 Horse Gallop
+
+[p2, 123, 96, 3]124:003 Bird Tweet 2
+
+[p2, 124, 96, 0]125:000 Telephone
+
+[p2, 124, 96, 1]125:001 Telephone 2
+
+[p2, 124, 96, 2]125:002 Door Creak
+
+[p2, 124, 96, 3]125:003 Door
+
+[p2, 124, 96, 4]125:004 Scratch
+
+[p2, 124, 96, 5]125:005 Wind Chimes
+
+[p2, 125, 96, 0]126:000 Helicopter
+
+[p2, 125, 96, 1]126:001 Car-Engine
+
+[p2, 125, 96, 2]126:002 Car-Stop
+
+[p2, 125, 96, 3]126:003 Car-Pass
+
+[p2, 125, 96, 4]126:004 Car-Crash
+
+[p2, 125, 96, 5]126:005 Siren
+
+[p2, 125, 96, 6]126:006 Train
+
+[p2, 125, 96, 7]126:007 Jetplane
+
+[p2, 125, 96, 8]126:008 Starship
+
+[p2, 125, 96, 9]126:009 Burst Noise
+
+[p2, 126, 96, 0]127:000 Applause
+
+[p2, 126, 96, 1]127:001 Laughing
+
+[p2, 126, 96, 2]127:002 Screaming
+
+[p2, 126, 96, 3]127:003 Punch
+
+[p2, 126, 96, 4]127:004 Heart Beat
+
+[p2, 126, 96, 5]127:005 Footsteps
+
+[p2, 127, 96, 0]128:000 Gunshot
+
+[p2, 127, 96, 1]128:001 Machine Gun
+
+[p2, 127, 96, 2]128:002 Lasergun
+
+[p2, 127, 96, 3]128:003 Explosion
+
+[g1]	CONTEM
+
+[p2, 0, 97, 0]001:000 Ac.Piano
+
+[p2, 0, 97, 1]001:001 Ac.Piano w
+
+[p2, 0, 97, 2]001:002 Mild Piano
+
+[p2, 1, 97, 0]002:000 Rock Piano
+
+[p2, 1, 97, 1]002:001 Rock Piano w
+
+[p2, 2, 97, 0]003:000 E.Grand Pf
+
+[p2, 2, 97, 1]003:001 E.Grand Pf w
+
+[p2, 3, 97, 0]004:000 Old Honky
+
+[p2, 3, 97, 1]004:001 Old Honky w
+
+[p2, 4, 97, 0]005:000 Soft Rhodes
+
+[p2, 4, 97, 1]005:001 Fat Rhodes
+
+[p2, 4, 97, 2]005:002 Rhodes Wide
+
+[p2, 4, 97, 3]005:003 Wurly Soft
+
+[p2, 5, 97, 0]006:000 FM E.Piano
+
+[p2, 5, 97, 1]006:001 Soft FM EP
+
+[p2, 5, 97, 2]006:002 SA E.Piano
+
+[p2, 5, 97, 3]006:003 EP Legend 2
+
+[p2, 5, 97, 4]006:004 EP Phase 2
+
+[p2, 6, 97, 0]007:000 Harpsi 2
+
+[p2, 6, 97, 1]007:001 Coupl hps 2
+
+[p2, 6, 97, 2]007:002 Harpsi 2 w
+
+[p2, 6, 97, 3]007:003 Harpsi 2 o
+
+[p2, 7, 97, 0]008:000 Atack Clav 1
+
+[p2, 7, 97, 1]008:001 AnalogClav 1
+
+[p2, 8, 97, 0]009:000 Celesta 2
+
+[p2, 9, 97, 0]010:000 Glocken 2
+
+[p2, 10, 97, 0]011:000 Music Box 2
+
+[p2, 11, 97, 0]012:000 Vibraphone 2
+
+[p2, 11, 97, 1]012:001 Vibraphone2w
+
+[p2, 12, 97, 0]013:000 Marimba 2
+
+[p2, 12, 97, 1]013:001 Marimba 2 w
+
+[p2, 13, 97, 0]014:000 Xylophone 2
+
+[p2, 14, 97, 0]015:000 Tubular-bel2
+
+[p2, 14, 97, 1]015:001 Church Bell2
+
+[p2, 14, 97, 2]015:002 Carillon 2
+
+[p2, 15, 97, 0]016:000 Santur 2
+
+[p2, 16, 97, 0]017:000 Perky
+
+[p2, 16, 97, 1]017:001 Ballad B
+
+[p2, 16, 97, 2]017:002 Happy 60s
+
+[p2, 16, 97, 3]017:003 Tone Wheel
+
+[p2, 17, 97, 0]018:000 Jazz Organ 1
+
+[p2, 17, 97, 1]018:001 Perc.Organ 1
+
+[p2, 17, 97, 2]018:002 Dist.JzOrg 1
+
+[p2, 18, 97, 0]019:000 Organ 3 fast
+
+[p2, 19, 97, 0]020:000 Pipe Organ 1
+
+[p2, 19, 97, 1]020:001 LargeChurch1
+
+[p2, 19, 97, 2]020:002 SmallChurch1
+
+[p2, 20, 97, 0]021:000 Reed Organ 2
+
+[p2, 20, 97, 1]021:001 Organ Flute
+
+[p2, 21, 97, 0]022:000 French Acc
+
+[p2, 21, 97, 1]022:001 It Muset
+
+[p2, 22, 97, 0]023:000 Harmonica 2
+
+[p2, 23, 97, 0]024:000 Bandneon 1
+
+[p2, 24, 97, 0]025:000 Nylon Gt 2
+
+[p2, 24, 97, 1]025:001 Ukulele 2
+
+[p2, 24, 97, 2]025:002 Nylon 2 o
+
+[p2, 24, 97, 3]025:003 Hard Gut Gt
+
+[p2, 25, 97, 0]026:000 OV Steel Gt
+
+[p2, 25, 97, 1]026:001 12-Str.Gt 2
+
+[p2, 25, 97, 2]026:002 Mandolin 2
+
+[p2, 25, 97, 3]026:003 Steel+Body 2
+
+[p2, 26, 97, 0]027:000 Jazz Gt 2
+
+[p2, 26, 97, 1]027:001 Pedal Steel2
+
+[p2, 27, 97, 0]028:000 TC Rear
+
+[p2, 27, 97, 1]028:001 TC Front
+
+[p2, 27, 97, 2]028:002 TC Front 2
+
+[p2, 28, 97, 0]029:000 TC Mute Gt
+
+[p2, 28, 97, 1]029:001 FunkGt Slap
+
+[p2, 28, 97, 2]029:002 Funk Pop
+
+[p2, 28, 97, 3]029:003 Mute Jazz Gt
+
+[p2, 29, 97, 0]030:000 Atk Drive Gt
+
+[p2, 29, 97, 1]030:001 Gt.Pinch 2
+
+[p2, 30, 97, 0]031:000 Atk Dist Gt
+
+[p2, 30, 97, 1]031:001 FeedbackGt 2
+
+[p2, 30, 97, 2]031:002 Muted Dist
+
+[p2, 31, 97, 0]032:000 Gt.Harm 2
+
+[p2, 31, 97, 1]032:001 FeedbackOct
+
+[p2, 32, 97, 0]033:000 Rockabilly
+
+[p2, 33, 97, 0]034:000 Fingered Bs2
+
+[p2, 33, 97, 1]034:001 FingerP.Bass
+
+[p2, 34, 97, 0]035:000 Picked Jz Bs
+
+[p2, 35, 97, 0]036:000 Fretless Bs2
+
+[p2, 36, 97, 0]037:000 Slap Pop 1
+
+[p2, 37, 97, 0]038:000 Funky Slap
+
+[p2, 38, 97, 0]039:000 MG303 Bass
+
+[p2, 38, 97, 1]039:001 MG Bass
+
+[p2, 38, 97, 2]039:002 MG Acid Bass
+
+[p2, 38, 97, 3]039:003 Clavi Bass 2
+
+[p2, 38, 97, 4]039:004 OB Hammer
+
+[p2, 39, 97, 0]040:000 Seq101 Bass
+
+[p2, 39, 97, 1]040:001 Beef Slap Bs
+
+[p2, 39, 97, 2]040:002 Rubber Bass2
+
+[p2, 39, 97, 3]040:003 Attack Saw
+
+[p2, 40, 97, 0]041:000 Violin vib
+
+[p2, 40, 97, 1]041:001 Slow Vln vib
+
+[p2, 41, 97, 0]042:000 Viola vib
+
+[p2, 42, 97, 0]043:000 Cello vib
+
+[p2, 43, 97, 0]044:000 Cb vib
+
+[p2, 44, 97, 0]045:000 Tremolo Str2
+
+[p2, 45, 97, 0]046:000 Pizzicato 2
+
+[p2, 46, 97, 0]047:000 Harp 2
+
+[p2, 46, 97, 1]047:001 Yangqin 2
+
+[p2, 47, 97, 0]048:000 Timpani 2
+
+[p2, 48, 97, 0]049:000 Strings 2
+
+[p2, 48, 97, 1]049:001 Orchestra 2
+
+[p2, 48, 97, 2]049:002 Oct.Strings
+
+[p2, 49, 97, 0]050:000 SlowStrings2
+
+[p2, 50, 97, 0]051:000 BriteSyn.Str
+
+[p2, 50, 97, 1]051:001 Oct.SynStr 1
+
+[p2, 51, 97, 0]052:000 Warm SynStr1
+
+[p2, 52, 97, 0]053:000 Large Choir
+
+[p2, 52, 97, 1]053:001 Small Choir
+
+[p2, 53, 97, 0]054:000 Voices Oohs 2
+
+[p2, 53, 97, 1]054:001 Hamming 2
+
+[p2, 54, 97, 0]055:000 SynVox 2
+
+[p2, 54, 97, 1]055:001 Ana Voices 2
+
+[p2, 55, 97, 0]056:000 Orc Hit 2
+
+[p2, 55, 97, 1]056:001 Bass Hit 2
+
+[p2, 55, 97, 2]056:002 6th Hit 2
+
+[p2, 55, 97, 3]056:003 Euro Hit 2
+
+[p2, 56, 97, 0]057:000 Solo Trumpet
+
+[p2, 56, 97, 1]057:001 Mild Trumpet
+
+[p2, 57, 97, 0]058:000 Solo Bone
+
+[p2, 57, 97, 1]058:001 Solo Bone 2
+
+[p2, 57, 97, 2]058:002 Brite Bone 2
+
+[p2, 58, 97, 0]059:000 Tuba 2
+
+[p2, 59, 97, 0]060:000 MuteTrumpet2
+
+[p2, 59, 97, 1]060:001 Harmon Mute
+
+[p2, 60, 97, 0]061:000 FrenchHorns2
+
+[p2, 60, 97, 1]061:001 MildFr.Horns
+
+[p2, 61, 97, 0]062:000 Brass FF
+
+[p2, 61, 97, 1]062:001 BrassSection
+
+[p2, 62, 97, 0]063:000 JP Syn.Brass
+
+[p2, 62, 97, 1]063:001 JPSyn.Brass2
+
+[p2, 62, 97, 2]063:002 OctSynBrass2
+
+[p2, 62, 97, 3]063:003 80's Brass
+
+[p2, 63, 97, 0]064:000 MG Syn.Horn
+
+[p2, 63, 97, 1]064:001 OB Syn.Horn
+
+[p2, 63, 97, 2]064:002 CS Syn.Brass
+
+[p2, 64, 97, 0]065:000 Soprano Sax2
+
+[p2, 65, 97, 0]066:000 Breathy Alto
+
+[p2, 66, 97, 0]067:000 BreathyTenor
+
+[p2, 67, 97, 0]068:000 Barely Bari
+
+[p2, 68, 97, 0]069:000 Brite Oboe
+
+[p2, 69, 97, 0]070:000 EnglishHorn2
+
+[p2, 70, 97, 0]071:000 Bassoon 2
+
+[p2, 71, 97, 0]072:000 Br.Clarinet
+
+[p2, 72, 97, 0]073:000 Piccolo 2
+
+[p2, 73, 97, 0]074:000 Flute 2
+
+[p2, 74, 97, 0]075:000 Recorder 2
+
+[p2, 75, 97, 0]076:000 Pan Flute 2
+
+[p2, 76, 97, 0]077:000 Bottle Blow2
+
+[p2, 77, 97, 0]078:000 Shakuhachi 2
+
+[p2, 78, 97, 0]079:000 Whistle 2
+
+[p2, 79, 97, 0]080:000 Ocarina 2
+
+[p2, 80, 97, 0]081:000 MG Square
+
+[p2, 80, 97, 1]081:001 Fat Square
+
+[p2, 80, 97, 2]081:002 2600 Sine
+
+[p2, 81, 97, 0]082:000 JP Saw Wave
+
+[p2, 81, 97, 1]082:001 MG Saw
+
+[p2, 81, 97, 2]082:002 Fat Saw Solo
+
+[p2, 81, 97, 3]082:003 P5 Saw Lead
+
+[p2, 81, 97, 4]082:004 MG Sequence
+
+[p2, 82, 97, 0]083:000 SynCalliope2
+
+[p2, 83, 97, 0]084:000 ChifferLead2
+
+[p2, 84, 97, 0]085:000 Charang 2
+
+[p2, 84, 97, 1]085:001 Wire Lead 2
+
+[p2, 85, 97, 0]086:000 Solo Vox 2
+
+[p2, 86, 97, 0]087:000 5th SawWave2
+
+[p2, 87, 97, 0]088:000 Bass & Lead2
+
+[p2, 87, 97, 1]088:001 DelayedLead2
+
+[p2, 88, 97, 0]089:000 Fantasia 2
+
+[p2, 89, 97, 0]090:000 Warm Pad 2
+
+[p2, 89, 97, 1]090:001 Sine Pad 2
+
+[p2, 90, 97, 0]091:000 Polysynth 2
+
+[p2, 91, 97, 0]092:000 SpaceVoices 2
+
+[p2, 91, 97, 1]092:001 Itopia 2
+
+[p2, 92, 97, 0]093:000 BowedGlass 2
+
+[p2, 93, 97, 0]094:000 Metal Pad 2
+
+[p2, 94, 97, 0]095:000 Halo Pad 2
+
+[p2, 95, 97, 0]096:000 Sweep Pad 2
+
+[p2, 96, 97, 0]097:000 Ice Rain 2
+
+[p2, 97, 97, 0]098:000 Soundtrack 2
+
+[p2, 98, 97, 0]099:000 Crystal 2
+
+[p2, 98, 97, 1]099:001 Syn Mallet 2
+
+[p2, 99, 97, 0]100:000 Atmosphere 2
+
+[p2, 100, 97, 0]101:000 Brightness 2
+
+[p2, 101, 97, 0]102:000 Goblin 2
+
+[p2, 102, 97, 0]103:000 Echo Drops 2
+
+[p2, 102, 97, 1]103:001 Echo Bell 2
+
+[p2, 102, 97, 2]103:002 Echo Pan 2
+
+[p2, 103, 97, 0]104:000 Star Theme 2
+
+[p2, 104, 97, 0]105:000 Atk Sitar
+
+[p2, 104, 97, 1]105:001 Atk Sitar 2
+
+[p2, 105, 97, 0]106:000 Banjo 2
+
+[p2, 106, 97, 0]107:000 Shamisen 2
+
+[p2, 107, 97, 0]108:000 Koto 2
+
+[p2, 107, 97, 1]108:001 Taisho Koto2
+
+[p2, 108, 97, 0]109:000 Kalimba 2
+
+[p2, 109, 97, 0]110:000 Bag Pipe 2
+
+[p2, 110, 97, 0]111:000 Fiddle vib
+
+[p2, 111, 97, 0]112:000 Shanai 2
+
+[p2, 112, 97, 0]113:000 Tinkle Bell
+
+[p2, 113, 97, 0]114:000 Agogo
+
+[p2, 114, 97, 0]115:000 Steel Drums
+
+[p2, 115, 97, 0]116:000 Woodblock
+
+[p2, 115, 97, 1]116:001 Castanet
+
+[p2, 116, 97, 0]117:000 Taiko
+
+[p2, 116, 97, 1]117:001 Concert BD
+
+[p2, 117, 97, 0]118:000 Melo.Tom 1
+
+[p2, 117, 97, 1]118:001 Melo.Tom 2
+
+[p2, 118, 97, 0]119:000 Synth Drum
+
+[p2, 118, 97, 1]119:001 808 tom
+
+[p2, 118, 97, 2]119:002 Elec Perc
+
+[p2, 119, 97, 0]120:000 Reverse Cym
+
+[p2, 120, 97, 0]121:000 GtFret Noise
+
+[p2, 120, 97, 1]121:001 Gt.Cut Noise
+
+[p2, 120, 97, 2]121:002 Slap_St.Bass
+
+[p2, 121, 97, 0]122:000 Breath Noise
+
+[p2, 121, 97, 1]122:001 Fl.Key Click
+
+[p2, 122, 97, 0]123:000 Seashore
+
+[p2, 122, 97, 1]123:001 Rain
+
+[p2, 122, 97, 2]123:002 Thunder
+
+[p2, 122, 97, 3]123:003 Wind
+
+[p2, 122, 97, 4]123:004 Stream
+
+[p2, 122, 97, 5]123:005 Bubble
+
+[p2, 123, 97, 0]124:000 Bird Tweet
+
+[p2, 123, 97, 1]124:001 Dog
+
+[p2, 123, 97, 2]124:002 Horse Gallop
+
+[p2, 123, 97, 3]124:003 Bird Tweet 2
+
+[p2, 124, 97, 0]125:000 Telephone
+
+[p2, 124, 97, 1]125:001 Telephone 2
+
+[p2, 124, 97, 2]125:002 Door Creak
+
+[p2, 124, 97, 3]125:003 Door
+
+[p2, 124, 97, 4]125:004 Scratch
+
+[p2, 124, 97, 5]125:005 Wind Chimes
+
+[p2, 125, 97, 0]126:000 Helicopter
+
+[p2, 125, 97, 1]126:001 Car-Engine
+
+[p2, 125, 97, 2]126:002 Car-Stop
+
+[p2, 125, 97, 3]126:003 Car-Pass
+
+[p2, 125, 97, 4]126:004 Car-Crash
+
+[p2, 125, 97, 5]126:005 Siren
+
+[p2, 125, 97, 6]126:006 Train
+
+[p2, 125, 97, 7]126:007 Jetplane
+
+[p2, 125, 97, 8]126:008 Starship
+
+[p2, 125, 97, 9]126:009 Burst Noise
+
+[p2, 126, 97, 0]127:000 Applause
+
+[p2, 126, 97, 1]127:001 Laughing
+
+[p2, 126, 97, 2]127:002 Screaming
+
+[p2, 126, 97, 3]127:003 Punch
+
+[p2, 126, 97, 4]127:004 Heart Beat
+
+[p2, 126, 97, 5]127:005 Footsteps
+
+[p2, 127, 97, 0]128:000 Gunshot
+
+[p2, 127, 97, 1]128:001 Machine Gun
+
+[p2, 127, 97, 2]128:002 Lasergun
+
+[p2, 127, 97, 3]128:003 Explosion
+
+[g1]	SOLO
+
+[p2, 0, 98, 0]001:000 St.Piano 1
+
+[p2, 0, 98, 1]001:001 St.Piano 1w
+
+[p2, 0, 98, 2]001:002 European Pf
+
+[p2, 1, 98, 0]002:000 St.Piano 2
+
+[p2, 1, 98, 1]002:001 St.Piano 2w
+
+[p2, 2, 98, 0]003:000 SA Piano
+
+[p2, 2, 98, 1]003:001 SA Piano w
+
+[p2, 3, 98, 0]004:000 St.Honky
+
+[p2, 3, 98, 1]004:001 St.Honky w
+
+[p2, 4, 98, 0]005:000 Tremo Rhodes
+
+[p2, 4, 98, 1]005:001 Sweet Tynes
+
+[p2, 4, 98, 2]005:002 Tremo Dyno
+
+[p2, 4, 98, 3]005:003 Tremo Wurly
+
+[p2, 5, 98, 0]006:000 FM Hard EP
+
+[p2, 5, 98, 1]006:001 Brite FM EP
+
+[p2, 5, 98, 2]006:002 Brite FM EP2
+
+[p2, 5, 98, 3]006:003 EP Legend 3
+
+[p2, 5, 98, 4]006:004 EP Phase 3
+
+[p2, 6, 98, 0]007:000 St.Harpsichd
+
+[p2, 6, 98, 1]007:001 St.Coupl hps
+
+[p2, 6, 98, 2]007:002 St.Harpsi w
+
+[p2, 6, 98, 3]007:003 St.Harpsi o
+
+[p2, 7, 98, 0]008:000 Atack Clav 2
+
+[p2, 7, 98, 1]008:001 AnalogClav 2
+
+[p2, 8, 98, 0]009:000 St.Celesta
+
+[p2, 9, 98, 0]010:000 St.Glocken
+
+[p2, 10, 98, 0]011:000 St.Music Box
+
+[p2, 11, 98, 0]012:000 St.Vibra
+
+[p2, 11, 98, 1]012:001 St.Vibra w
+
+[p2, 12, 98, 0]013:000 St.Marimba
+
+[p2, 12, 98, 1]013:001 St.Marimba w
+
+[p2, 13, 98, 0]014:000 St.Xylophone
+
+[p2, 14, 98, 0]015:000 St.Tubular
+
+[p2, 14, 98, 1]015:001 St.Church
+
+[p2, 14, 98, 2]015:002 St.Carillon
+
+[p2, 15, 98, 0]016:000 St.Santur
+
+[p2, 16, 98, 0]017:000 Roller
+
+[p2, 16, 98, 1]017:001 Rocker
+
+[p2, 16, 98, 2]017:002 Soft60'Organ
+
+[p2, 16, 98, 3]017:003 Full Stops
+
+[p2, 17, 98, 0]018:000 Jazz Organ 2
+
+[p2, 17, 98, 1]018:001 Perc.Organ 2
+
+[p2, 17, 98, 2]018:002 Dist.JzOrg 2
+
+[p2, 18, 98, 0]019:000 Rock Organ
+
+[p2, 19, 98, 0]020:000 Pipe Organ 2
+
+[p2, 19, 98, 1]020:001 LargeChurch2
+
+[p2, 19, 98, 2]020:002 SmallChurch2
+
+[p2, 20, 98, 0]021:000 Reed Organ 3
+
+[p2, 20, 98, 1]021:001 Theater
+
+[p2, 21, 98, 0]022:000 St.FrenchAcc
+
+[p2, 21, 98, 1]022:001 St.It Muset
+
+[p2, 22, 98, 0]023:000 St.Harmonica
+
+[p2, 23, 98, 0]024:000 St.Bandneon
+
+[p2, 24, 98, 0]025:000 Nylon Gt 3
+
+[p2, 24, 98, 1]025:001 Ukulele 3
+
+[p2, 24, 98, 2]025:002 Nylon 3 o
+
+[p2, 24, 98, 3]025:003 Hard Gut Gt2
+
+[p2, 25, 98, 0]026:000 SteelStr.Gt2
+
+[p2, 25, 98, 1]026:001 12-Str.Gt 3
+
+[p2, 25, 98, 2]026:002 Mandolin 3
+
+[p2, 25, 98, 3]026:003 Steel+Body 3
+
+[p2, 26, 98, 0]027:000 Jazz Gt 3
+
+[p2, 26, 98, 1]027:001 Pedal Steel3
+
+[p2, 27, 98, 0]028:000 Strat2 Rear
+
+[p2, 27, 98, 1]028:001 Chorus Clean
+
+[p2, 27, 98, 2]028:002 335
+
+[p2, 28, 98, 0]029:000 TC Mute Gt 2
+
+[p2, 28, 98, 1]029:001 FunkGt.Slap2
+
+[p2, 28, 98, 2]029:002 Funk Pop 2
+
+[p2, 28, 98, 3]029:003 Slap Jazz Gt
+
+[p2, 29, 98, 0]030:000 OverdriveGt2
+
+[p2, 29, 98, 1]030:001 Gt.Pinch 3
+
+[p2, 30, 98, 0]031:000 Dist.Gt 2
+
+[p2, 30, 98, 1]031:001 Feedback OD
+
+[p2, 30, 98, 2]031:002 Muted Dist 2
+
+[p2, 31, 98, 0]032:000 Gt.OctHarm
+
+[p2, 31, 98, 1]032:001 FeedbackHarm
+
+[p2, 32, 98, 0]033:000 Fat Aco.Bass
+
+[p2, 33, 98, 0]034:000 Jazz Bass
+
+[p2, 33, 98, 1]034:001 Finger Slap
+
+[p2, 34, 98, 0]035:000 Picking Bass
+
+[p2, 35, 98, 0]036:000 PhaseFrtless
+
+[p2, 36, 98, 0]037:000 Jazz Slap
+
+[p2, 37, 98, 0]038:000 Slap Pop 2
+
+[p2, 38, 98, 0]039:000 Fat Syn.Bass
+
+[p2, 38, 98, 1]039:001 SynthSaw Bs
+
+[p2, 38, 98, 2]039:002 AcidBs Dirty
+
+[p2, 38, 98, 3]039:003 Clavi Bass 3
+
+[p2, 38, 98, 4]039:004 MG Hammer
+
+[p2, 39, 98, 0]040:000 Sq SynthBass
+
+[p2, 39, 98, 1]040:001 Beef Saw Bs
+
+[p2, 39, 98, 2]040:002 JpSaw Rubber
+
+[p2, 39, 98, 3]040:003 Attack MG Bs
+
+[p2, 40, 98, 0]041:000 Violin 2 vib
+
+[p2, 40, 98, 1]041:001 SlowVln2 vib
+
+[p2, 41, 98, 0]042:000 Viola2 vib
+
+[p2, 42, 98, 0]043:000 Cello2 vib
+
+[p2, 43, 98, 0]044:000 Cb2 vib
+
+[p2, 44, 98, 0]045:000 St.Trem Str
+
+[p2, 45, 98, 0]046:000 St.Pizzicato
+
+[p2, 46, 98, 0]047:000 St.Harp
+
+[p2, 46, 98, 1]047:001 St.Yangqin
+
+[p2, 47, 98, 0]048:000 St.Timpani
+
+[p2, 48, 98, 0]049:000 St.Strings
+
+[p2, 48, 98, 1]049:001 St.Orchestra
+
+[p2, 48, 98, 2]049:002 St.OctStr 1
+
+[p2, 49, 98, 0]050:000 St.Slow Str
+
+[p2, 50, 98, 0]051:000 StackSyn.Str
+
+[p2, 50, 98, 1]051:001 Oct.SynStr 2
+
+[p2, 51, 98, 0]052:000 Warm SynStr2
+
+[p2, 52, 98, 0]053:000 St.ChoirAahs
+
+[p2, 52, 98, 1]053:001 St.Sm Choir
+
+[p2, 53, 98, 0]054:000 St.Vox Oohs
+
+[p2, 53, 98, 1]054:001 St.Hamming
+
+[p2, 54, 98, 0]055:000 St.SynVox
+
+[p2, 54, 98, 1]055:001 Ana Voices 3
+
+[p2, 55, 98, 0]056:000 St.Orc Hit
+
+[p2, 55, 98, 1]056:001 St.Bass Hit
+
+[p2, 55, 98, 2]056:002 St.6th Hit
+
+[p2, 55, 98, 3]056:003 St.Euro Hit
+
+[p2, 56, 98, 0]057:000 Romantic Tp
+
+[p2, 56, 98, 1]057:001 Tp.Dark vib
+
+[p2, 57, 98, 0]058:000 Trombone vib
+
+[p2, 57, 98, 1]058:001 Trombone2vib
+
+[p2, 57, 98, 2]058:002 Br.Bone vib
+
+[p2, 58, 98, 0]059:000 Tuba vib
+
+[p2, 59, 98, 0]060:000 Solo MutedTp
+
+[p2, 59, 98, 1]060:001 Harmon Mute2
+
+[p2, 60, 98, 0]061:000 St.Fr Horns
+
+[p2, 60, 98, 1]061:001 St.Fr Horns2
+
+[p2, 61, 98, 0]062:000 St.Brass
+
+[p2, 61, 98, 1]062:001 St.Brass 2
+
+[p2, 62, 98, 0]063:000 Hyper Brass
+
+[p2, 62, 98, 1]063:001 Stack Brass
+
+[p2, 62, 98, 2]063:002 OctSynBrass3
+
+[p2, 62, 98, 3]063:003 SuperSaw Brs
+
+[p2, 63, 98, 0]064:000 Warm SynHorn
+
+[p2, 63, 98, 1]064:001 Rich SynHorn
+
+[p2, 63, 98, 2]064:002 P5 Syn.Brass
+
+[p2, 64, 98, 0]065:000 Sop.Sax vib
+
+[p2, 65, 98, 0]066:000 AltoSoft vib
+
+[p2, 66, 98, 0]067:000 Blow Tenor
+
+[p2, 67, 98, 0]068:000 Bari.Sax vib
+
+[p2, 68, 98, 0]069:000 Classic Oboe
+
+[p2, 69, 98, 0]070:000 E.Horn vib
+
+[p2, 70, 98, 0]071:000 Bassoon vib
+
+[p2, 71, 98, 0]072:000 JazzClarinet
+
+[p2, 72, 98, 0]073:000 Piccolo vib
+
+[p2, 73, 98, 0]074:000 Flute vib
+
+[p2, 74, 98, 0]075:000 Recorder vib
+
+[p2, 75, 98, 0]076:000 PanFlute vib
+
+[p2, 76, 98, 0]077:000 Bottle vib
+
+[p2, 77, 98, 0]078:000 Shaku.vib
+
+[p2, 78, 98, 0]079:000 Whistle vib
+
+[p2, 79, 98, 0]080:000 Ocarina vib
+
+[p2, 80, 98, 0]081:000 OB Square
+
+[p2, 80, 98, 1]081:001 Fat Square2
+
+[p2, 80, 98, 2]081:002 2600 Sine 2
+
+[p2, 81, 98, 0]082:000 Oct.JP Saw
+
+[p2, 81, 98, 1]082:001 Hybrid Saw
+
+[p2, 81, 98, 2]082:002 Hybrid Solo
+
+[p2, 81, 98, 3]082:003 MG Saw Lead
+
+[p2, 81, 98, 4]082:004 DelaySeqence
+
+[p2, 82, 98, 0]083:000 SynCalliope3
+
+[p2, 83, 98, 0]084:000 ChifferLead3
+
+[p2, 84, 98, 0]085:000 Charang 3
+
+[p2, 84, 98, 1]085:001 Wire Lead 3
+
+[p2, 85, 98, 0]086:000 Solo Vox 3
+
+[p2, 86, 98, 0]087:000 5th SawWave3
+
+[p2, 87, 98, 0]088:000 Bass & Lead3
+
+[p2, 87, 98, 1]088:001 DelayedLead3
+
+[p2, 88, 98, 0]089:000 Fantasia 3
+
+[p2, 89, 98, 0]090:000 Warm Pad 3
+
+[p2, 89, 98, 1]090:001 Sine Pad 3
+
+[p2, 90, 98, 0]091:000 Polysynth 3
+
+[p2, 91, 98, 0]092:000 SpaceVoices 3
+
+[p2, 91, 98, 1]092:001 Itopia 3
+
+[p2, 92, 98, 0]093:000 BowedGlass 3
+
+[p2, 93, 98, 0]094:000 Metal Pad 3
+
+[p2, 94, 98, 0]095:000 Halo Pad 3
+
+[p2, 95, 98, 0]096:000 Sweep Pad 3
+
+[p2, 96, 98, 0]097:000 Ice Rain 3
+
+[p2, 97, 98, 0]098:000 Soundtrack 3
+
+[p2, 98, 98, 0]099:000 Crystal 3
+
+[p2, 98, 98, 1]099:001 Syn Mallet 3
+
+[p2, 99, 98, 0]100:000 Atmosphere 3
+
+[p2, 100, 98, 0]101:000 Brightness 3
+
+[p2, 101, 98, 0]102:000 Goblin 3
+
+[p2, 102, 98, 0]103:000 Echo Drops 3
+
+[p2, 102, 98, 1]103:001 Echo Bell 3
+
+[p2, 102, 98, 2]103:002 Echo Pan 3
+
+[p2, 103, 98, 0]104:000 Star Theme 3
+
+[p2, 104, 98, 0]105:000 St.Sitar
+
+[p2, 104, 98, 1]105:001 St.Sitar 2
+
+[p2, 105, 98, 0]106:000 St.Banjo
+
+[p2, 106, 98, 0]107:000 St.Shamisen
+
+[p2, 107, 98, 0]108:000 St.Koto
+
+[p2, 107, 98, 1]108:001 St.T Koto
+
+[p2, 108, 98, 0]109:000 St.Kalimba
+
+[p2, 109, 98, 0]110:000 St.Bag Pipe
+
+[p2, 110, 98, 0]111:000 Fiddle 2 vib
+
+[p2, 111, 98, 0]112:000 St.Shanai
+
+[p2, 112, 98, 0]113:000 Tinkle Bell
+
+[p2, 113, 98, 0]114:000 Agogo
+
+[p2, 114, 98, 0]115:000 Steel Drums
+
+[p2, 115, 98, 0]116:000 Woodblock
+
+[p2, 115, 98, 1]116:001 Castanet
+
+[p2, 116, 98, 0]117:000 Taiko
+
+[p2, 116, 98, 1]117:001 Concert BD
+
+[p2, 117, 98, 0]118:000 Melo.Tom 1
+
+[p2, 117, 98, 1]118:001 Melo.Tom 2
+
+[p2, 118, 98, 0]119:000 Synth Drum
+
+[p2, 118, 98, 1]119:001 808 tom
+
+[p2, 118, 98, 2]119:002 Elec Perc
+
+[p2, 119, 98, 0]120:000 Reverse Cym
+
+[p2, 120, 98, 0]121:000 GtFret Noise
+
+[p2, 120, 98, 1]121:001 Gt.Cut Noise
+
+[p2, 120, 98, 2]121:002 Slap_St.Bass
+
+[p2, 121, 98, 0]122:000 Breath Noise
+
+[p2, 121, 98, 1]122:001 Fl.Key Click
+
+[p2, 122, 98, 0]123:000 Seashore
+
+[p2, 122, 98, 1]123:001 Rain
+
+[p2, 122, 98, 2]123:002 Thunder
+
+[p2, 122, 98, 3]123:003 Wind
+
+[p2, 122, 98, 4]123:004 Stream
+
+[p2, 122, 98, 5]123:005 Bubble
+
+[p2, 123, 98, 0]124:000 Bird Tweet
+
+[p2, 123, 98, 1]124:001 Dog
+
+[p2, 123, 98, 2]124:002 Horse Gallop
+
+[p2, 123, 98, 3]124:003 Bird Tweet 2
+
+[p2, 124, 98, 0]125:000 Telephone
+
+[p2, 124, 98, 1]125:001 Telephone 2
+
+[p2, 124, 98, 2]125:002 Door Creak
+
+[p2, 124, 98, 3]125:003 Door
+
+[p2, 124, 98, 4]125:004 Scratch
+
+[p2, 124, 98, 5]125:005 Wind Chimes
+
+[p2, 125, 98, 0]126:000 Helicopter
+
+[p2, 125, 98, 1]126:001 Car-Engine
+
+[p2, 125, 98, 2]126:002 Car-Stop
+
+[p2, 125, 98, 3]126:003 Car-Pass
+
+[p2, 125, 98, 4]126:004 Car-Crash
+
+[p2, 125, 98, 5]126:005 Siren
+
+[p2, 125, 98, 6]126:006 Train
+
+[p2, 125, 98, 7]126:007 Jetplane
+
+[p2, 125, 98, 8]126:008 Starship
+
+[p2, 125, 98, 9]126:009 Burst Noise
+
+[p2, 126, 98, 0]127:000 Applause
+
+[p2, 126, 98, 1]127:001 Laughing
+
+[p2, 126, 98, 2]127:002 Screaming
+
+[p2, 126, 98, 3]127:003 Punch
+
+[p2, 126, 98, 4]127:004 Heart Beat
+
+[p2, 126, 98, 5]127:005 Footsteps
+
+[p2, 127, 98, 0]128:000 Gunshot
+
+[p2, 127, 98, 1]128:001 Machine Gun
+
+[p2, 127, 98, 2]128:002 Lasergun
+
+[p2, 127, 98, 3]128:003 Explosion
+
+[g1]	ENHANC
+
+[p2, 0, 99, 0]001:000 SD Piano
+
+[p2, 0, 99, 1]001:001 SD Piano w
+
+[p2, 0, 99, 2]001:002 Classic Pf
+
+[p2, 1, 99, 0]002:000 Enh.Piano 2
+
+[p2, 1, 99, 1]002:001 Enh.Piano 2w
+
+[p2, 2, 99, 0]003:000 Enh.E Grand
+
+[p2, 2, 99, 1]003:001 Enh.E Grandw
+
+[p2, 3, 99, 0]004:000 Brite Honky
+
+[p2, 3, 99, 1]004:001 Brite Honkyw
+
+[p2, 4, 99, 0]005:000 Stage 73
+
+[p2, 4, 99, 1]005:001 NY Rhodes
+
+[p2, 4, 99, 2]005:002 Phase Dyno
+
+[p2, 4, 99, 3]005:003 Whirly
+
+[p2, 5, 99, 0]006:000 Chorus EP
+
+[p2, 5, 99, 1]006:001 Phase FM EP
+
+[p2, 5, 99, 2]006:002 Wah FM EP
+
+[p2, 5, 99, 3]006:003 Enh.Legend
+
+[p2, 5, 99, 4]006:004 Phasing EP
+
+[p2, 6, 99, 0]007:000 Enh.Harpsi
+
+[p2, 6, 99, 1]007:001 Enh.Coupl hp
+
+[p2, 6, 99, 2]007:002 Enh.Harpsi w
+
+[p2, 6, 99, 3]007:003 Enh.Harpsi o
+
+[p2, 7, 99, 0]008:000 Comp Clav
+
+[p2, 7, 99, 1]008:001 Wah Ana.Clav
+
+[p2, 8, 99, 0]009:000 SpaceCelesta
+
+[p2, 9, 99, 0]010:000 Trem.Glocken
+
+[p2, 10, 99, 0]011:000 Panning Box
+
+[p2, 11, 99, 0]012:000 Trem.Vibra
+
+[p2, 11, 99, 1]012:001 Trem.Vibra w
+
+[p2, 12, 99, 0]013:000 Enh.Marimba
+
+[p2, 12, 99, 1]013:001 Enh.Marimbaw
+
+[p2, 13, 99, 0]014:000 Enh.Xylophon
+
+[p2, 14, 99, 0]015:000 Trem.Tubula
+
+[p2, 14, 99, 1]015:001 Echo Church
+
+[p2, 14, 99, 2]015:002 Trm.Carillon
+
+[p2, 15, 99, 0]016:000 Enh.Santur
+
+[p2, 16, 99, 0]017:000 Perky Spin
+
+[p2, 16, 99, 1]017:001 Gospel Spin
+
+[p2, 16, 99, 2]017:002 96 Year
+
+[p2, 16, 99, 3]017:003 Tone Wh.Solo
+
+[p2, 17, 99, 0]018:000 Jazzy Spin
+
+[p2, 17, 99, 1]018:001 Jazzy Spin 2
+
+[p2, 17, 99, 2]018:002 Jazzy Spin 3
+
+[p2, 18, 99, 0]019:000 Rocker Spin
+
+[p2, 19, 99, 0]020:000 Amb.Church
+
+[p2, 19, 99, 1]020:001 Amb.Church 2
+
+[p2, 19, 99, 2]020:002 Amb.Church 3
+
+[p2, 20, 99, 0]021:000 Old Reed Org
+
+[p2, 20, 99, 1]021:001 Enh.Theater
+
+[p2, 21, 99, 0]022:000 Enh.French
+
+[p2, 21, 99, 1]022:001 Enh.ItMuset
+
+[p2, 22, 99, 0]023:000 Ld.Harmonica
+
+[p2, 23, 99, 0]024:000 Enh.Bandneon
+
+[p2, 24, 99, 0]025:000 Enh.Nylon Gt
+
+[p2, 24, 99, 1]025:001 Enh.Ukulele
+
+[p2, 24, 99, 2]025:002 Enh.Nylon o
+
+[p2, 24, 99, 3]025:003 Enh.Gut Gt
+
+[p2, 25, 99, 0]026:000 Comp OVSteel
+
+[p2, 25, 99, 1]026:001 3D 12-Str.Gt
+
+[p2, 25, 99, 2]026:002 Enh.Mandolin
+
+[p2, 25, 99, 3]026:003 DelayedSteel
+
+[p2, 26, 99, 0]027:000 Lead Jazz Gt
+
+[p2, 26, 99, 1]027:001 Hawaian Gt
+
+[p2, 27, 99, 0]028:000 Old Clean Gt
+
+[p2, 27, 99, 1]028:001 Jazz Chorus
+
+[p2, 27, 99, 2]028:002 335 Drive
+
+[p2, 28, 99, 0]029:000 Comp Mute Gt
+
+[p2, 28, 99, 1]029:001 Enh.Funk Gt
+
+[p2, 28, 99, 2]029:002 Wah Funk Pop
+
+[p2, 28, 99, 3]029:003 Solo Jazz Gt
+
+[p2, 29, 99, 0]030:000 TC Lead Gt
+
+[p2, 29, 99, 1]030:001 Gt.PinchLead
+
+[p2, 30, 99, 0]031:000 Heavy DistGt
+
+[p2, 30, 99, 1]031:001 Feedbacker
+
+[p2, 30, 99, 2]031:002 Muted OD
+
+[p2, 31, 99, 0]032:000 Amp.Harm
+
+[p2, 31, 99, 1]032:001 Amp.FeedBack
+
+[p2, 32, 99, 0]033:000 Enh.Aco Bass
+
+[p2, 33, 99, 0]034:000 Pre Bass
+
+[p2, 33, 99, 1]034:001 Comp Finger
+
+[p2, 34, 99, 0]035:000 Rock Bass
+
+[p2, 35, 99, 0]036:000 Cho.Fretless
+
+[p2, 36, 99, 0]037:000 Phase Slap
+
+[p2, 37, 99, 0]038:000 Enh.Slap Pop
+
+[p2, 38, 99, 0]039:000 Dist303 Bass
+
+[p2, 38, 99, 1]039:001 P.Shift Bass
+
+[p2, 38, 99, 2]039:002 Acid Dist Bs
+
+[p2, 38, 99, 3]039:003 PhaseClaviBs
+
+[p2, 38, 99, 4]039:004 Enh.Hammer
+
+[p2, 39, 99, 0]040:000 PhaseSq Bass
+
+[p2, 39, 99, 1]040:001 Enh.Beef Bs
+
+[p2, 39, 99, 2]040:002 Fat JpSaw Bs
+
+[p2, 39, 99, 3]040:003 Enh.MG Bass
+
+[p2, 40, 99, 0]041:000 Enh.Violin
+
+[p2, 40, 99, 1]041:001 Enh.Slow Vln
+
+[p2, 41, 99, 0]042:000 Enh.Viola
+
+[p2, 42, 99, 0]043:000 Enh.Cello
+
+[p2, 43, 99, 0]044:000 Enh.Cb
+
+[p2, 44, 99, 0]045:000 St.Trem Str2
+
+[p2, 45, 99, 0]046:000 Chorus Pizz
+
+[p2, 46, 99, 0]047:000 Chorus Harp
+
+[p2, 46, 99, 1]047:001 Enh.Yangqin
+
+[p2, 47, 99, 0]048:000 Enh.Timpani
+
+[p2, 48, 99, 0]049:000 St.Strings 2
+
+[p2, 48, 99, 1]049:001 St.Orchestr2
+
+[p2, 48, 99, 2]049:002 St.OctStr 2
+
+[p2, 49, 99, 0]050:000 St.Slow Str2
+
+[p2, 50, 99, 0]051:000 JP Strings
+
+[p2, 50, 99, 1]051:001 PhaseSyn.Str
+
+[p2, 51, 99, 0]052:000 OB Strings
+
+[p2, 52, 99, 0]053:000 Rich Choir
+
+[p2, 52, 99, 1]053:001 St.Sm Choir2
+
+[p2, 53, 99, 0]054:000 Enh.Vox Oohs
+
+[p2, 53, 99, 1]054:001 Enh.Hamming
+
+[p2, 54, 99, 0]055:000 Phase SynVox
+
+[p2, 54, 99, 1]055:001 Lead Ana.Vox
+
+[p2, 55, 99, 0]056:000 Enh.Orc Hit
+
+[p2, 55, 99, 1]056:001 PhaseBassHit
+
+[p2, 55, 99, 2]056:002 Dly.6th Hit
+
+[p2, 55, 99, 3]056:003 Dly.Euro Hit
+
+[p2, 56, 99, 0]057:000 Enh.Trumpet
+
+[p2, 56, 99, 1]057:001 Warm Trumpet
+
+[p2, 57, 99, 0]058:000 Enh.Trombone
+
+[p2, 57, 99, 1]058:001 Enh.Bone 2
+
+[p2, 57, 99, 2]058:002 Enh.Br Bone
+
+[p2, 58, 99, 0]059:000 Chorus Tuba
+
+[p2, 59, 99, 0]060:000 Enh.Muted Tp
+
+[p2, 59, 99, 1]060:001 Enh.MutedTp2
+
+[p2, 60, 99, 0]061:000 Enh.StFrHorn
+
+[p2, 60, 99, 1]061:001 Warm Horns
+
+[p2, 61, 99, 0]062:000 St.Big Brass
+
+[p2, 61, 99, 1]062:001 Enh.Brs Sect
+
+[p2, 62, 99, 0]063:000 SuperJP Brs1
+
+[p2, 62, 99, 1]063:001 Lead Brass
+
+[p2, 62, 99, 2]063:002 Phase OctBrs
+
+[p2, 62, 99, 3]063:003 SuperJP Brs2
+
+[p2, 63, 99, 0]064:000 WarmSynHorn2
+
+[p2, 63, 99, 1]064:001 Phase Horn
+
+[p2, 63, 99, 2]064:002 Fat Pro Bras
+
+[p2, 64, 99, 0]065:000 Enh.Sop Sax
+
+[p2, 65, 99, 0]066:000 Enh.Alto Sax
+
+[p2, 66, 99, 0]067:000 Enh.TenorSax
+
+[p2, 67, 99, 0]068:000 Enh.Bari Sax
+
+[p2, 68, 99, 0]069:000 Enh.Oboe
+
+[p2, 69, 99, 0]070:000 Enh.E Horn
+
+[p2, 70, 99, 0]071:000 Enh.Bassoon
+
+[p2, 71, 99, 0]072:000 Jz.Clarinet2
+
+[p2, 72, 99, 0]073:000 Enh.Piccolo
+
+[p2, 73, 99, 0]074:000 Enh.Flute
+
+[p2, 74, 99, 0]075:000 Enh.Recorder
+
+[p2, 75, 99, 0]076:000 Cho.PanFlute
+
+[p2, 76, 99, 0]077:000 Phase Bottle
+
+[p2, 77, 99, 0]078:000 Delay Shaku
+
+[p2, 78, 99, 0]079:000 DelayWhistle
+
+[p2, 79, 99, 0]080:000 DelayOcarina
+
+[p2, 80, 99, 0]081:000 OBSquareLead
+
+[p2, 80, 99, 1]081:001 Phase Square
+
+[p2, 80, 99, 2]081:002 Sine Lead
+
+[p2, 81, 99, 0]082:000 KeySync Saw
+
+[p2, 81, 99, 1]082:001 Flanging Saw
+
+[p2, 81, 99, 2]082:002 Doctor Lead
+
+[p2, 81, 99, 3]082:003 Fat Saw Lead
+
+[p2, 81, 99, 4]082:004 PhaseSeqence
+
+[p2, 82, 99, 0]083:000 LeadCalliope
+
+[p2, 83, 99, 0]084:000 Chiffers
+
+[p2, 84, 99, 0]085:000 Charang Lead
+
+[p2, 84, 99, 1]085:001 Phase Wire
+
+[p2, 85, 99, 0]086:000 SoloVox Lead
+
+[p2, 86, 99, 0]087:000 Flanging 5th
+
+[p2, 87, 99, 0]088:000 Phase BsLead
+
+[p2, 87, 99, 1]088:001 Suffle Lead
+
+[p2, 88, 99, 0]089:000 New Fantasia
+
+[p2, 89, 99, 0]090:000 Phase Pad
+
+[p2, 89, 99, 1]090:001 Chorus Sine
+
+[p2, 90, 99, 0]091:000 KeySyncSynth
+
+[p2, 91, 99, 0]092:000 Phase Voices
+
+[p2, 91, 99, 1]092:001 Pan Itopia
+
+[p2, 92, 99, 0]093:000 Ring Glass
+
+[p2, 93, 99, 0]094:000 Space Pad
+
+[p2, 94, 99, 0]095:000 Phase Halo
+
+[p2, 95, 99, 0]096:000 Flanging Pad
+
+[p2, 96, 99, 0]097:000 Reverse Rain
+
+[p2, 97, 99, 0]098:000 Phase Track
+
+[p2, 98, 99, 0]099:000 3D Crystal
+
+[p2, 98, 99, 1]099:001 Phase Mallet
+
+[p2, 99, 99, 0]100:000 Pan Atmos
+
+[p2, 100, 99, 0]101:000 Bright Star
+
+[p2, 101, 99, 0]102:000 Rev Goblin
+
+[p2, 102, 99, 0]103:000 Delay Drops
+
+[p2, 102, 99, 1]103:001 Delay Bell
+
+[p2, 102, 99, 2]103:002 Delay Pan
+
+[p2, 103, 99, 0]104:000 Phase Theme
+
+[p2, 104, 99, 0]105:000 Enh.Sitar
+
+[p2, 104, 99, 1]105:001 FantasySitar
+
+[p2, 105, 99, 0]106:000 St.Banjo 2
+
+[p2, 106, 99, 0]107:000 St.Shamisen2
+
+[p2, 107, 99, 0]108:000 St.Koto 2
+
+[p2, 107, 99, 1]108:001 St.T Koto 2
+
+[p2, 108, 99, 0]109:000 Trem.Kalimba
+
+[p2, 109, 99, 0]110:000 Enh.Bag Pipe
+
+[p2, 110, 99, 0]111:000 Enh.Fiddle
+
+[p2, 111, 99, 0]112:000 Enh.Shanai
+
+[p2, 112, 99, 0]113:000 Tinkle Bell
+
+[p2, 113, 99, 0]114:000 Agogo
+
+[p2, 114, 99, 0]115:000 Steel Drums
+
+[p2, 115, 99, 0]116:000 Woodblock
+
+[p2, 115, 99, 1]116:001 Castanet
+
+[p2, 116, 99, 0]117:000 Taiko
+
+[p2, 116, 99, 1]117:001 Concert BD
+
+[p2, 117, 99, 0]118:000 Melo.Tom 1
+
+[p2, 117, 99, 1]118:001 Melo.Tom 2
+
+[p2, 118, 99, 0]119:000 Synth Drum
+
+[p2, 118, 99, 1]119:001 808 tom
+
+[p2, 118, 99, 2]119:002 Elec Perc
+
+[p2, 119, 99, 0]120:000 Reverse Cym
+
+[p2, 120, 99, 0]121:000 GtFret Noise
+
+[p2, 120, 99, 1]121:001 Gt.Cut Noise
+
+[p2, 120, 99, 2]121:002 Slap_St.Bass
+
+[p2, 121, 99, 0]122:000 Breath Noise
+
+[p2, 121, 99, 1]122:001 Fl.Key Click
+
+[p2, 122, 99, 0]123:000 Seashore
+
+[p2, 122, 99, 1]123:001 Rain
+
+[p2, 122, 99, 2]123:002 Thunder
+
+[p2, 122, 99, 3]123:003 Wind
+
+[p2, 122, 99, 4]123:004 Stream
+
+[p2, 122, 99, 5]123:005 Bubble
+
+[p2, 123, 99, 0]124:000 Bird Tweet
+
+[p2, 123, 99, 1]124:001 Dog
+
+[p2, 123, 99, 2]124:002 Horse Gallop
+
+[p2, 123, 99, 3]124:003 Bird Tweet 2
+
+[p2, 124, 99, 0]125:000 Telephone
+
+[p2, 124, 99, 1]125:001 Telephone 2
+
+[p2, 124, 99, 2]125:002 Door Creak
+
+[p2, 124, 99, 3]125:003 Door
+
+[p2, 124, 99, 4]125:004 Scratch
+
+[p2, 124, 99, 5]125:005 Wind Chimes
+
+[p2, 125, 99, 0]126:000 Helicopter
+
+[p2, 125, 99, 1]126:001 Car-Engine
+
+[p2, 125, 99, 2]126:002 Car-Stop
+
+[p2, 125, 99, 3]126:003 Car-Pass
+
+[p2, 125, 99, 4]126:004 Car-Crash
+
+[p2, 125, 99, 5]126:005 Siren
+
+[p2, 125, 99, 6]126:006 Train
+
+[p2, 125, 99, 7]126:007 Jetplane
+
+[p2, 125, 99, 8]126:008 Starship
+
+[p2, 125, 99, 9]126:009 Burst Noise
+
+[p2, 126, 99, 0]127:000 Applause
+
+[p2, 126, 99, 1]127:001 Laughing
+
+[p2, 126, 99, 2]127:002 Screaming
+
+[p2, 126, 99, 3]127:003 Punch
+
+[p2, 126, 99, 4]127:004 Heart Beat
+
+[p2, 126, 99, 5]127:005 Footsteps
+
+[p2, 127, 99, 0]128:000 Gunshot
+
+[p2, 127, 99, 1]128:001 Machine Gun
+
+[p2, 127, 99, 2]128:002 Lasergun
+
+[p2, 127, 99, 3]128:003 Explosion
+
+[g1]	SP1
+
+[p2, 0, 80, 0]001 D.L.A.Pad
+
+[p2, 1, 80, 0]002 BrushingSaw
+
+[p2, 2, 80, 0]003 Xtremities
+
+[p2, 3, 80, 0]004 Atmostrings
+
+[p2, 4, 80, 0]005 Noo Tongs
+
+[p2, 5, 80, 0]006 Mistery
+
+[p2, 6, 80, 0]007 EastrnEurope
+
+[p2, 7, 80, 0]008 Harpsi&Str
+
+[p2, 8, 80, 0]009 Shout Gt
+
+[p2, 9, 80, 0]010 Clean Chorus
+
+[p2, 10, 80, 0]011 Mid Boost Gt
+
+[p2, 11, 80, 0]012 Guitarvibe
+
+[p2, 12, 80, 0]013 Cluster Sect
+
+[p2, 13, 80, 0]014 Mariachi Tp
+
+[p2, 14, 80, 0]015 NY Tenor
+
+[p2, 15, 80, 0]016 Jazz Club
+
+[p2, 16, 80, 0]017 Moody Alto
+
+[p2, 17, 80, 0]018 Fuji Yama
+
+[p2, 18, 80, 0]019 SD Piano
+
+[p2, 19, 80, 0]020 Piano&Str
+
+[p2, 20, 80, 0]021 WarmVoxPiano
+
+[p2, 21, 80, 0]022 Enh.E Grand
+
+[p2, 22, 80, 0]023 Brite Honky
+
+[p2, 23, 80, 0]024 Ambient EP
+
+[p2, 24, 80, 0]025 Phase Dyno
+
+[p2, 25, 80, 0]026 Wah Dyno
+
+[p2, 26, 80, 0]027 Voweling EP
+
+[p2, 27, 80, 0]028 Stage 73
+
+[p2, 28, 80, 0]029 NY Rhodes
+
+[p2, 29, 80, 0]030 Amped Wurlie
+
+[p2, 30, 80, 0]031 Dirty Wurlie
+
+[p2, 31, 80, 0]032 PhaseFlangEP
+
+[p2, 32, 80, 0]033 Dist Wurly
+
+[p2, 33, 80, 0]034 Xmod EP
+
+[p2, 34, 80, 0]035 EP+Followers
+
+[p2, 35, 80, 0]036 Backrhodes
+
+[p2, 36, 80, 0]037 FM Delight
+
+[p2, 37, 80, 0]038 Enh.Legend
+
+[p2, 38, 80, 0]039 Phasing EP
+
+[p2, 39, 80, 0]040 Comp Clav
+
+[p2, 40, 80, 0]041 Vibarimba
+
+[p2, 41, 80, 0]042 FM layer
+
+[p2, 42, 80, 0]043 Vibey Flute
+
+[p2, 43, 80, 0]044 Chime Bells
+
+[p2, 44, 80, 0]045 The Big Spin
+
+[p2, 45, 80, 0]046 Roller Spin
+
+[p2, 46, 80, 0]047 Rocker Spin
+
+[p2, 47, 80, 0]048 Tone Wh.Solo
+
+[p2, 48, 80, 0]049 Purple Spin
+
+[p2, 49, 80, 0]050 RingingOrgan
+
+[p2, 50, 80, 0]051 60's LeadOrg
+
+[p2, 51, 80, 0]052 DistLead Org
+
+[p2, 52, 80, 0]053 Assalt Organ
+
+[p2, 53, 80, 0]054 Perky Spin
+
+[p2, 54, 80, 0]055 Gospel Spin
+
+[p2, 55, 80, 0]056 Boogie Organ
+
+[p2, 56, 80, 0]057 Klubb Organ
+
+[p2, 57, 80, 0]058 96 Year
+
+[p2, 58, 80, 0]059 OrganInStone
+
+[p2, 59, 80, 0]060 StringsOrgan
+
+[p2, 60, 80, 0]061 Cathdr Pipes
+
+[p2, 61, 80, 0]062 Enh.Theater
+
+[p2, 62, 80, 0]063 Ld.Harmonica
+
+[p2, 63, 80, 0]064 Guitar&Str
+
+[p2, 64, 80, 0]065 Elec Gut Gt
+
+[p2, 65, 80, 0]066 Chorus GutGt
+
+[p2, 66, 80, 0]067 Enh.Nylon Gt
+
+[p2, 67, 80, 0]068 CompSteel Gt
+
+[p2, 68, 80, 0]069 Elec Aco.Gt
+
+[p2, 69, 80, 0]070 Hard Steel
+
+[p2, 70, 80, 0]071 Comp OVSteel
+
+[p2, 71, 80, 0]072 DelayedSteel
+
+[p2, 72, 80, 0]073 Wah Steel Gt
+
+[p2, 73, 80, 0]074 Soft Steel
+
+[p2, 74, 80, 0]075 Lead Jazz Gt
+
+[p2, 75, 80, 0]076 Hawaian Gt
+
+[p2, 76, 80, 0]077 Solo Jazz Gt
+
+[p2, 77, 80, 0]078 Old Clean Gt
+
+[p2, 78, 80, 0]079 Jazz Chorus
+
+[p2, 79, 80, 0]080 Fat Clean
+
+[p2, 80, 80, 0]081 Space-D Gt
+
+[p2, 81, 80, 0]082 Whammy Gt
+
+[p2, 82, 80, 0]083 Trem&Cho Gt
+
+[p2, 83, 80, 0]084 Long DLY.Gt
+
+[p2, 84, 80, 0]085 Comp FeedBK
+
+[p2, 85, 80, 0]086 ChaseDL Mute
+
+[p2, 86, 80, 0]087 Wah Funk Pop
+
+[p2, 87, 80, 0]088 Old Blues
+
+[p2, 88, 80, 0]089 335 Drive
+
+[p2, 89, 80, 0]090 335 Drive2
+
+[p2, 90, 80, 0]091 SmallAMP OD
+
+[p2, 91, 80, 0]092 CountrySlide
+
+[p2, 92, 80, 0]093 335 Comp
+
+[p2, 93, 80, 0]094 TC Lead Gt
+
+[p2, 94, 80, 0]095 Lead Mild Gt
+
+[p2, 95, 80, 0]096 Crunch Gt
+
+[p2, 96, 80, 0]097 Auto Wah Gt
+
+[p2, 97, 80, 0]098 Folmant Gt
+
+[p2, 98, 80, 0]099 Fuzz Gt
+
+[p2, 99, 80, 0]100 MonoPhase Gt
+
+[p2, 100, 80, 0]101 2 Layer Gt
+
+[p2, 101, 80, 0]102 MonoDLY Dist
+
+[p2, 102, 80, 0]103 Step FLG Gt
+
+[p2, 103, 80, 0]104 335 Fuzz
+
+[p2, 104, 80, 0]105 Drive Funk
+
+[p2, 105, 80, 0]106 Loud & Metal
+
+[p2, 106, 80, 0]107 Heavy DistGt
+
+[p2, 107, 80, 0]108 Power Mute
+
+[p2, 108, 80, 0]109 Muted OD
+
+[p2, 109, 80, 0]110 Combo Drive
+
+[p2, 110, 80, 0]111 Ring Gt.
+
+[p2, 111, 80, 0]112 Scream Drive
+
+[p2, 112, 80, 0]113 Gt.Pinch Wah
+
+[p2, 113, 80, 0]114 Power DistGt
+
+[p2, 114, 80, 0]115 Triple Gt
+
+[p2, 115, 80, 0]116 Reverse Harm
+
+[p2, 116, 80, 0]117 Drivin'Uprit
+
+[p2, 117, 80, 0]118 Enh.Aco Bass
+
+[p2, 118, 80, 0]119 Pre Bass
+
+[p2, 119, 80, 0]120 Comp Finger
+
+[p2, 120, 80, 0]121 Octrv Finger
+
+[p2, 121, 80, 0]122 Rock Bass
+
+[p2, 122, 80, 0]123 Dist Bass
+
+[p2, 123, 80, 0]124 Solo Fretles
+
+[p2, 124, 80, 0]125 WahSlapBass
+
+[p2, 125, 80, 0]126 Froggy Bass
+
+[p2, 126, 80, 0]127 3D TB-303
+
+[p2, 127, 80, 0]128 Acid Dist Bs
+
+[g1]	SP2
+
+[p2, 0, 81, 0]001 Blown Bass
+
+[p2, 1, 81, 0]002 Enh.Violin
+
+[p2, 2, 81, 0]003 Solo Violin
+
+[p2, 3, 81, 0]004 Enh.Cello
+
+[p2, 4, 81, 0]005 Overture Str
+
+[p2, 5, 81, 0]006 St.Trem Str2
+
+[p2, 6, 81, 0]007 St.Strings 2
+
+[p2, 7, 81, 0]008 Intim8String
+
+[p2, 8, 81, 0]009 Str&Brs Orch
+
+[p2, 9, 81, 0]010 St.Orchestr2
+
+[p2, 10, 81, 0]011 St.Slow Str2
+
+[p2, 11, 81, 0]012 ChamberPlyrs
+
+[p2, 12, 81, 0]013 Prelude
+
+[p2, 13, 81, 0]014 Tape Strings
+
+[p2, 14, 81, 0]015 JP Strings
+
+[p2, 15, 81, 0]016 PhaseSyn.Str
+
+[p2, 16, 81, 0]017 SciFi Choir
+
+[p2, 17, 81, 0]018 Rich Choir
+
+[p2, 18, 81, 0]019 St.Sm Choir2
+
+[p2, 19, 81, 0]020 Tron Choir
+
+[p2, 20, 81, 0]021 ScatterDanze
+
+[p2, 21, 81, 0]022 Choral Brass
+
+[p2, 22, 81, 0]023 Vocal Keys
+
+[p2, 23, 81, 0]024 SampleThe80s
+
+[p2, 24, 81, 0]025 Spectravox
+
+[p2, 25, 81, 0]026 Formantic
+
+[p2, 26, 81, 0]027 Vocoder Wave
+
+[p2, 27, 81, 0]028 Enh.Muted Tp
+
+[p2, 28, 81, 0]029 St.Big Brass
+
+[p2, 29, 81, 0]030 ConcertHorns
+
+[p2, 30, 81, 0]031 Brass Orch
+
+[p2, 31, 81, 0]032 Loose Lips
+
+[p2, 32, 81, 0]033 Multi Brass
+
+[p2, 33, 81, 0]034 SuperJP Brs1
+
+[p2, 34, 81, 0]035 SuperJP Brs2
+
+[p2, 35, 81, 0]036 DragginBrass
+
+[p2, 36, 81, 0]037 Enh.Alto Sax
+
+[p2, 37, 81, 0]038 Enh.TenorSax
+
+[p2, 38, 81, 0]039 Enh.Bari Sax
+
+[p2, 39, 81, 0]040 Sax's Sect
+
+[p2, 40, 81, 0]041 Reed Romance
+
+[p2, 41, 81, 0]042 U.S.Patrol
+
+[p2, 42, 81, 0]043 Enh.Oboe
+
+[p2, 43, 81, 0]044 Jz.Clarinet2
+
+[p2, 44, 81, 0]045 Enh.Flute
+
+[p2, 45, 81, 0]046 Tron Flutes
+
+[p2, 46, 81, 0]047 Flute&Clari
+
+[p2, 47, 81, 0]048 Orch Reeds
+
+[p2, 48, 81, 0]049 Delay Shaku
+
+[p2, 49, 81, 0]050 DelayOcarina
+
+[p2, 50, 81, 0]051 DynOrchestra
+
+[p2, 51, 81, 0]052 Celtic Ens
+
+[p2, 52, 81, 0]053 Early Ens
+
+[p2, 53, 81, 0]054 WoodSymphony
+
+[p2, 54, 81, 0]055 ViennaWoods2
+
+[p2, 55, 81, 0]056 Stage Woods
+
+[p2, 56, 81, 0]057 TremoloFlute
+
+[p2, 57, 81, 0]058 SupportWoods
+
+[p2, 58, 81, 0]059 Fiddle&Oboe
+
+[p2, 59, 81, 0]060 Mono Blues
+
+[p2, 60, 81, 0]061 TravlnFlutes
+
+[p2, 61, 81, 0]062 DistordedSAW
+
+[p2, 62, 81, 0]063 The Leader
+
+[p2, 63, 81, 0]064 SH-2 Lead
+
+[p2, 64, 81, 0]065 JP-6 Lead
+
+[p2, 65, 81, 0]066 Glassy Saws
+
+[p2, 66, 81, 0]067 Too Pure
+
+[p2, 67, 81, 0]068 Mono Analog
+
+[p2, 68, 81, 0]069 Charang Lead
+
+[p2, 69, 81, 0]070 Phase Wire
+
+[p2, 70, 81, 0]071 Flanging 5th
+
+[p2, 71, 81, 0]072 BOG
+
+[p2, 72, 81, 0]073 Solo Twang
+
+[p2, 73, 81, 0]074 Koto Power
+
+[p2, 74, 81, 0]075 Dulcid Solo
+
+[p2, 75, 81, 0]076 Wine Guitar
+
+[p2, 76, 81, 0]077 Leapin'Keys
+
+[p2, 77, 81, 0]078 New Fantasia
+
+[p2, 78, 81, 0]079 MilleniumStr
+
+[p2, 79, 81, 0]080 OB Borealis
+
+[p2, 80, 81, 0]081 Wet Glass
+
+[p2, 81, 81, 0]082 VintagePhase
+
+[p2, 82, 81, 0]083 P-layer
+
+[p2, 83, 81, 0]084 Ring Glass
+
+[p2, 84, 81, 0]085 5th Atm/Aft
+
+[p2, 85, 81, 0]086 Combing
+
+[p2, 86, 81, 0]087 Modular Life
+
+[p2, 87, 81, 0]088 KeySync Saw
+
+[p2, 88, 81, 0]089 Phase Track
+
+[p2, 89, 81, 0]090 3D Crystal
+
+[p2, 90, 81, 0]091 Bright Star
+
+[p2, 91, 81, 0]092 Technoheadz
+
+[p2, 92, 81, 0]093 Techno Cave
+
+[p2, 93, 81, 0]094 Wedo-Wodo
+
+[p2, 94, 81, 0]095 Dance Sweet
+
+[p2, 95, 81, 0]096 Dancefloor
+
+[p2, 96, 81, 0]097 Frogcillator
+
+[p2, 97, 81, 0]098 Dance Zipper
+
+[p2, 98, 81, 0]099 Lo-fi Chord
+
+[p2, 99, 81, 0]100 Sliced
+
+[p2, 100, 81, 0]101 Dance Chop
+
+[p2, 101, 81, 0]102 GO WILD!
+
+[p2, 102, 81, 0]103 Tropics
+
+[p2, 103, 81, 0]104 FM Fx Bells
+
+[p2, 104, 81, 0]105 CrystalGlass
+
+[p2, 105, 81, 0]106 Borealis
+
+[p2, 106, 81, 0]107 Circular Pad
+
+[p2, 107, 81, 0]108 Oxigenizer
+
+[p2, 108, 81, 0]109 Quasar
+
+[p2, 109, 81, 0]110 PsycheSweep
+
+[p2, 110, 81, 0]111 Hell Section
+
+[p2, 111, 81, 0]112 DigitalDrone
+
+[p2, 112, 81, 0]113 Harp Drop
+
+[p2, 113, 81, 0]114 Runaway Rez
+
+[p2, 114, 81, 0]115 Wacky Pizzer
+
+[p2, 115, 81, 0]116 Reverse Rain
+
+[p2, 116, 81, 0]117 Starburst
+
+[p2, 117, 81, 0]118 Tongan Delay
+
+[p2, 118, 81, 0]119 Cascade
+
+[p2, 119, 81, 0]120 LegatÅ®Stacat
+
+[p2, 120, 81, 0]121 Rev Goblin
+
+[p2, 121, 81, 0]122 FantasySitar
+
+[p2, 122, 81, 0]123 Rising Sun
+
+[p2, 123, 81, 0]124 Green Tea
+
+[p2, 124, 81, 0]125 Jimmy's Koto
+
+[p2, 125, 81, 0]126 Fly 2 India
+
+[p2, 126, 81, 0]127 IndianSpirit
+
+[p2, 127, 81, 0]128 Gt/BsNz MENU
+
+[mode10]	Drums
+
+[g1]	CLASIC
+
+[p2, 0, 104, 0]001 Standard Set
+
+[p2, 8, 104, 0]009 Room Set
+
+[p2, 16, 104, 0]017 Power Set
+
+[p2, 24, 104, 0]025 Electric Set
+
+[p2, 25, 104, 0]026 Analog Set
+
+[p2, 32, 104, 0]033 Jazz Set
+
+[p2, 40, 104, 0]041 Brush Set
+
+[p2, 48, 104, 0]049 OrchestraSet
+
+[p2, 56, 104, 0]057 SFX Set
+
+[g1]	CONTEM
+
+[p2, 0, 105, 0]001 StandardSet2
+
+[p2, 8, 105, 0]009 Room Set 2
+
+[p2, 16, 105, 0]017 Power Set 2
+
+[p2, 24, 105, 0]025 Dance Set
+
+[p2, 25, 105, 0]026 Rave Set
+
+[p2, 32, 105, 0]033 Jazz Set 2
+
+[p2, 40, 105, 0]041 Brush Set 2
+
+[p2, 48, 105, 0]049 OrchestraSet
+
+[p2, 56, 105, 0]057 SFX Set
+
+[g1]	SOLO
+
+[p2, 0, 106, 0]001 St.Standard
+
+[p2, 8, 106, 0]009 St.Room
+
+[p2, 16, 106, 0]017 St.Power
+
+[p2, 24, 106, 0]025 Rust Set
+
+[p2, 25, 106, 0]026 Analog2 Set
+
+[p2, 32, 106, 0]033 St.Jazz
+
+[p2, 40, 106, 0]041 St.Brush
+
+[p2, 48, 106, 0]049 OrchestraSet
+
+[p2, 56, 106, 0]057 SFX Set
+
+[g1]	ENHANC
+
+[p2, 0, 107, 0]001 Amb.Standard
+
+[p2, 8, 107, 0]009 Amb.Room
+
+[p2, 16, 107, 0]017 Gated Power
+
+[p2, 24, 107, 0]025 Techno Set
+
+[p2, 25, 107, 0]026 Bully Set
+
+[p2, 32, 107, 0]033 Amb.Jazz
+
+[p2, 40, 107, 0]041 Amb.Brush
+
+[p2, 48, 107, 0]049 OrchestraSet
+
+[p2, 56, 107, 0]057 SFX Set
+
+
+[end]
+
